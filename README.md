@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moha-jowhar&show_icons=true&locale=en&layout=compact" alt="moha-jowhar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moha-jowhar&show_icons=true&locale=en" alt="moha-jowhar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moha-jowhar&show_icons=true&locale=en" alt="Moha-jowhar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moha-jowhar&" alt="moha-jowhar" /></p>
 
