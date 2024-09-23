@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdullahi Mohamed</h1>
 <h3 align="center">A passionate full-stack develper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moha-jowhar&label=Profile%20views&color=0e75b6&style=flat" alt="moha-jowhar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Moha-jowhar&label=Profile%20views&color=0e75b6&style=flat" alt="Moha-jowhar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moha-jowhar" alt="moha-jowhar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Moha-jowhar" alt="Moha-jowhar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
